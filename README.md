@@ -23,3 +23,7 @@ For more information on the process, visit this link: http://www.neon-sense.com/
 
 get_dict: <br>
 Made a python module to easily get dictionary from a list. <br>
+
+how_to_markov: <br>
+Using markov chain technique to generate new body of text from my "how to" Google search terms.<br>
+For more information on the process, visit this link: http://www.neon-sense.com/2017/04/05/how-to-markov/ <br>
