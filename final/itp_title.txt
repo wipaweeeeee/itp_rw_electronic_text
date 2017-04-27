@@ -1,0 +1,168 @@
+Applications
+Comm Lab: Animation
+Comm Lab: Video and Sound
+Comm Lab: Visual Language
+Introduction to Computational Media
+Introduction to Physical Computing
+Actual Fact:  Visualizing Hiphop Lyrics As Cultural Indicator
+Always On, Always Connected
+Alt Docs: Inventing new formats for non-fiction storytelling
+Animals, People and Those In Between
+Are You Ready?
+Art and Change in the Post-natural Environment
+Art Strategies
+Avant-Garde Procedural Art
+Basic Analog Circuits
+Big Games
+Big Screens
+BioDesigning the Future of Food
+Biosemiotics
+Blockchain Fiction
+Bluetooth LE
+Bodies In Motion
+Bodies of War: Engineering Ethics
+Body Electric
+Business.101.1
+Cabinets of Wonder 
+Choreographic Interventions
+Collective Narrative
+Collective Storytelling
+Computational Portraiture
+Computer Vision with C++ and OpenFrameworks
+Connected Devices and Networked Interaction
+Conversation, Cooperation, Collaboration
+Cooking With Sound
+Crafting Mindful Experience
+Creative Computing
+Creative Javascript 
+Creativity in the 21st Century Economy: Pitching Your Projects as Branded Content
+Culinary Physics
+Data Art 
+Data in Conflict
+Design and Sourcing for Manufacturing
+Design as Strategy and Practice
+Design for Accessibility
+Design For Change
+Design for the Real World: BeatRockers @ the Lavelle School
+Design Tool Studio
+Designing for Data Personalization
+Designing for Digital Fabrication
+Designing for Live Performance
+Designing for Seniors in the Information Age
+Designing Games for Kids
+Designing Healthcare
+Designing Meaningful Interactions
+Designing Participation in the Networked Economy
+Detourning the Web
+Developing Assistive Technologies
+Development in the Public Interest
+Digital Fabrication for Arcade Cabinet Design
+Digital Imaging: Reset
+Directing Virtual Reality
+DIY-VR
+Doing Good is Good Business
+Drawing on Everything
+Dynamic Web - Mobile
+Educate the Future
+Electronic Rituals, Oracles and Fortune-Telling
+Emotions in Motion
+Energy
+Everything is Spatial: Data and Digital Mapping
+Fairy Tales for the 21st Century
+Fandom
+Flying Robotic Journalism
+Food Systems: Interventions + Remediations
+From Prototype to Fabrication: Planning for Mass Production
+Future Interfaces
+Future Mobility and Infrastructure
+Future of New Media
+Hacking Contemporary Political Rhetoric
+Hacking Higher Ed
+Hacking Story Frameworks: For Social Impact/Social Issues
+Hacking the Browser
+Hardwired for Stories Out Loud: Why Stories Matter
+Homemade Hardware
+Immersive Listening: Designing Sound for VR
+In Short: Recurring Concepts in Art
+In Their Shoes
+Integrated Data Thinking 101
+Interaction Design Studio
+Interactive Music
+Intro to PCB Fab
+Intro to 3D for Printing
+Introduction to Fabrication
+Labor in a Mobile-First World
+Lean Launchpad 
+Learning Machines
+Light and Interactivity
+Lighting Without the Board
+Live Image Processing and Performance
+Live Web
+Looking Forward
+Machine Learning for Artists
+Magic Windows and Mixed-Up Realities
+Making Pop-Up Books and Paper Engineering
+Mapping Systemic Relationships
+Mechanism: If It Moves It Breaks
+Muscle: Expanded interaction for bodies and technology
+Nature of Code (Animation and Physics)
+Nature of Code (Intelligence and Learning)
+Networked Media
+Neuromachina
+Neuroscience and Art
+New Interfaces for Musical Expression
+Nothing: Creating Illusions
+One Story, Seven Ways
+Open Source Cinema
+Performing Participation
+Performing User
+Persuasive Design 
+Piecing it Together
+Playful Communication of Serious Research
+Pop Up Window Displays
+Printing Code
+Product Autopsy
+Programming Design Systems
+Programming from A to Z
+Project Development Studio
+Prototyping Electronic Devices
+Prototyping Interactive Spaces with Spacebrew
+Prototyping Movies
+Radio Ga Ga
+Reading and Writing Electronic Text
+Readymades
+Reinventing the Wheel
+Rest of You
+Rethinking Production Tools
+Sense Me, Move Me
+Sensory Driven Storytelling
+Shader Studio
+Social Hacking: Appropriating Interaction Technologies
+Soft Robots and Other Engineered Softness
+Speculation as Process
+Storytelling with Non-Linear Video
+Subtraction
+Surveillance Society: Making Sense of the Data Trails We Leave Behind
+Tangible Interaction Workshop
+Teaching as Art
+Temporary Expert: Design + Science in the Anthropocene
+Temporary Expert: Research-based Art and Design Practice
+Testing Tomorrow: Speculation as Process
+The Fungus Among Us
+The Stratosphere of Surveillance
+The User of Assistive Tech: Engaging with People with Disabilities
+The World-Pixel by Pixel
+Thesis
+Times Square Electronic Garden
+Towers of Power
+Transformational Design: Mindfulness and Physical Computing for Experience-driven Design
+Twitter Bot Workshop
+Understanding Networks
+Visual Listening
+Visualizing the Universe
+Wearable Tech Design
+Web Development with Open Data
+Who Owns Digital Social Memory? Web Archiving and its Discontents
+Worlds on a Wire: Narrative Storytelling in VR
+XYZ
+100 Days of Making
